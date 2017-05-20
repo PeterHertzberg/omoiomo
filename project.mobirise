@@ -332,7 +332,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wtm-new-7116-1920x1080-600x337.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/wtm-new-7116-1920x1080-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
