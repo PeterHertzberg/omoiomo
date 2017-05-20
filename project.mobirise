@@ -1,0 +1,701 @@
+{
+  "settings": {
+    "name": "OMOiOMO",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#8048db",
+        "secondaryColor": "#8048db",
+        "successColor": "#90a878",
+        "infoColor": "#553982",
+        "warningColor": "#9450dc",
+        "dangerColor": "#f28281",
+        "titleFont": "Oswald",
+        "subtitleFont": "Indie Flower",
+        "textFont": "Indie Flower",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 29,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "OMOiOMO - Conjuring storytelling magic!",
+        "meta_descr": "Storytelling through animation and comics.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#8048db"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#8048db"
+            },
+            ".link, .dropdown-item": {
+              "color": "#8048db",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Indie Flower', cursive"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#8048db",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#8048db!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Indie Flower",
+              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "css": "'Indie Flower', cursive"
+            },
+            "fontColor": "#8048db",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/omoiomologo-227x128.png",
+              "height": 128,
+              "alt": "OMOiOMO",
+              "link": "http://www.omoiomo.com",
+              "title": "OMOiOMO",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">OMOiOMO</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">STORiES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CONCRETE BABYLON</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://vimeopro.com/omoiomo/concrete-babylon\" target=\"_blank\">ViMEO<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.youtube.com/playlist?list=PLN04gD2xdJys7wWuVzNEpWiD0MEFa_Wam\" target=\"_blank\">YOUTUBE<br></a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GNOSSiENNE</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://vimeopro.com/omoiomo/gnossienne\" target=\"_blank\">ViMEO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.youtube.com/playlist?list=PLN04gD2xdJyvFFUIbSxX0x0bRj4lbybV-\" target=\"_blank\">YOUTUBE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://tapastic.com/series/gnossienne\" target=\"_blank\">TAPASTiC</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WHERE'S THE MOON</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://vimeopro.com/omoiomo/wheres-the-moon\" target=\"_blank\">ViMEO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.youtube.com/playlist?list=PLN04gD2xdJytEIYNKVsMZ8teRQo2h3xMf\" target=\"_blank\">YOUTUBE</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SOCiAL MEDiA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://instagram.com/studio_omoiomo\" target=\"_blank\">iNSTAGRAM<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/studioomoiomo\" target=\"_blank\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vimeo.com/omoiomo\" target=\"_blank\">ViMEO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCn0VDAPKwT_ulR7nOwYb2KA\" target=\"_blank\">YOUTUBE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://tapas.io/OMOiOMO\" target=\"_blank\">TAPASTiC</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">STORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.redbubble.com/people/omoiomo\" target=\"_blank\">REDBUBBLE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://gumroad.com/omoiomo\" target=\"_blank\">GUMROAD</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#8048db",
+              "font-size": "100px",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "color": "#9450dc"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/omoiomologo-2560x1440-2000x1125.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "OMOiOMO",
+          "text": "<i><b>Putting the magic back in storytelling</b></i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#803bcd",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            "P": {
+              "color": "#9450dc",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          },
+          "_anchor": "msg-box5-8",
+          "_params": {
+            "imageSize": "55",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/s05s01-007-1920x1080-600x337.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "http://vimeo.com/180205105",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CONCRETE BABYLON",
+          "text": "\"Where there once was a flowering meadow now lies a desert with a city of concrete and oilpipes...<br><br>Where there once was singing, play and happiness now all expressions of emotions are supressed by a dark force...<br><br>Where once there was a loving family and caring friendship now only exists coldness, arguing and fear...<br><br>This is a place that once was alive but now needs healing before it is to late...<br><br>My name is Guadalupe and this is my story.\"<br><br><br><br><br>Concrete Babylon is an animated story about a darkness taking over a family<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.concretebabylon.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">website</a>  <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://vimeopro.com/omoiomo/concrete-babylon\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ViMEO</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.youtube.com/playlist?list=PLN04gD2xdJys7wWuVzNEpWiD0MEFa_Wam\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUTUBE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          },
+          "_anchor": "msg-box5-b",
+          "_params": {
+            "imageSize": "55",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sketch-16-06-24-2-1920x1080-600x337.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#553982",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://vimeo.com/188038597",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "GNOSSiENNE",
+          "text": "A webcomic about the disregarded magic in life.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://vimeopro.com/omoiomo/gnossienne\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ViMEO</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://www.youtube.com/playlist?list=PLN04gD2xdJyvFFUIbSxX0x0bRj4lbybV-\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUTUBE</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://tapastic.com/series/gnossienne\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TAPASTiC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#803bcd",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            "P": {
+              "color": "#9450dc",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          },
+          "_anchor": "msg-box5-c",
+          "_params": {
+            "imageSize": "55",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wtm-new-7116-1920x1080-600x337.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://vimeo.com/198750055",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "WHERE'S THE MOoN? &nbsp; &nbsp;",
+          "text": "When the moon is gone, and the night sky is dark, Big Blue embarks on a dreamy lunar exploration in search for the light.<br><br>Where's the moon is an 8-part web series.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://vimeopro.com/omoiomo/wheres-the-moon\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ViMEO</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.youtube.com/playlist?list=PLN04gD2xdJytEIYNKVsMZ8teRQo2h3xMf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUTUBE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "color": "#9450dc"
+            },
+            ".mbr-section-title": {
+              "color": "#9450dc"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/omoiomologo-2560x1440-2000x1125.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "stores",
+          "text": "<p>If you want to support OMOiOMO to see more stories come out quicker, or if you just want to own a part of what I make, you can do so by visiting one of the stores and buy something or alot of things.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#553982"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#803bcd",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#9450dc"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#803bcd"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          },
+          "_anchor": "features1-d",
+          "_params": {
+            "columnsColor": "#553982",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Physical Products",
+          "subtitle1": "posters, t-shirts, etc",
+          "caption1": "OMOiOMO has a store on Redbubble where you can order different kinds of print products, posters, t-shirts, etc. to help support OMOiOMO or just out of personal enjoyment!",
+          "button1": "<a data-app-btn=\"true\" href=\"www.redbubble.com/people/omoiomo\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">visit the store</a>",
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title2": "Digitsl Products",
+          "subtitle2": "film, music, etc",
+          "caption2": "For digital productcts, film, music, etc. OMOiOMO has a store on Gumroad where you easily can buy what you please to download.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://gumroad.com/omoiomo\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">visit store</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#803bcd",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            },
+            ".card-block P": {
+              "color": "#9450dc",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".card-block": {
+              "color": "#9450dc"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials3",
+          "testimonial": [
+            {
+              "text": "<p>Hello! I'm Peter and OMOiOMO is my vessel to try to find my way back to that magical land of stories where I would dream away my days as a child...</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/dsc-0915-20141204110910750-995x995-2000x2000.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>The driving value in OMOiOMO is to serve the audience, always striving to create stories that have a strong emotional impact. I believe everything in the story, and the creating of it, that doesn't support this is a waste and try to cut them away.</p><p>The underlying principle that I try to follow in my process of creating is that of \"Shibumi\" or \"sophisticated simplicity\".</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/omoiomologo-2560x1440-2000x1125.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p><span style=\"font-size: 1.125rem; line-height: 2;\">I believe what you achieve is not the sum of what you should do tomorrow, or what you should have done yesterday, but the sum of your nows, of how you use your moments. It's the process and not the goal that drives you forward</span><span style=\"font-size: 1.125rem; line-height: 2;\">. By amplifying the learning through cycles of kata =&gt; mushin =&gt; hansei =&gt; kaizen, or routine, without mind -or- flow, reflection, small improvements, I constantly look to simplify the process by removing frictions and wastes.</span><br></p><p>\"Learning from yesterday to today make tomorrows path forward easier\"</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/omoiomologo-2560x1440-2000x1125.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials3-g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": "3",
+            "showImages": true,
+            "showName": false,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/omoiomologo-2560x1440-2000x1125.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "WHAT'S OMOiOMO?",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#8048db"
+            }
+          },
+          "_anchor": "contacts4-j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#553982",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<br><br><br><br><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://instagram.com/studio_omoiomo/\" target=\"_blank\">instagram</a></li><li><a href=\"https://vimeo.com/omoiomo\" target=\"_blank\">vimeo</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.youtube.com/channel/UCn0VDAPKwT_ulR7nOwYb2KA\" target=\"_blank\">youtube</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li><li><a href=\"https://tapas.io/OMOiOMO\" target=\"_blank\">tapastic</a></li><li><a href=\"https://www.facebook.com/studioomoiomo\" target=\"_blank\">facebook</a></li><li><a href=\"http://www.peterhertzberg.com\" target=\"_blank\">my personal website</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "contact@omoiomo.com",
+            "alerts": {
+              "success": "Thanks for contacting me! I'll get back to you as soon as I can."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
+        }
+      ]
+    }
+  }
+}
